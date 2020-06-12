@@ -286,7 +286,7 @@ __pycache__/
 *.xsd.cs
 
 # JavaScript Files
-**/wwwroot/
+
 
 **/app/components/**/*.js
 **/app/components/**/*.js.map
