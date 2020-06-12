@@ -1,0 +1,12 @@
+﻿@page
+@model TinyAppsProject.Pages.RandomNumberGeneratorModel
+@{
+    ViewData["Title"] = "RandomNumberGenerator";
+}
+<link rel="stylesheet" href="~/css/rngstyle.css" asp-append-version="true">
+
+    <h2>Random Number Generator</h2>
+    <span id="ranNum"></span>
+    <button id="generate">Generate</button>
+
+    <script src="~/js/randomNumberGenerator.js" asp-append-version="true"></script>
