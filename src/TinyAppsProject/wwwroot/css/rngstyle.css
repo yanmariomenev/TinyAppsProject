@@ -4,10 +4,10 @@
 }
 
 body {
-    background: #D3D3D3;
+    background: #1ab8f9;
     font-size: 125%;
     line-height: 1;
-    color: white;
+    color: #1ab8f9;
     font-family: Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
 }
@@ -31,8 +31,8 @@ button {
     font-weight: 700;
     line-height: 1;
     padding: .75rem;
-    background: rebeccapurple;
-    color: white;
+    background: #1ab8f9;
+    color: #fdb702;
     border: 2px solid rebeccapurple;
     border-radius: 5px;
     cursor: pointer;
@@ -59,7 +59,7 @@ button {
 }
 
 h2 {
-    background: rebeccapurple;
+    background: #1ab8f9;
     color: white;
     border: 2px solid rebeccapurple;
     border-radius: 5px;
