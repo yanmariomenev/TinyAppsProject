@@ -11,7 +11,7 @@ html {
     box-sizing: inherit;
 }
 
-.calculator {
+/*.calculator {
     border: 1px solid #ccc;
     border-radius: 5px;
     position: absolute;
@@ -19,14 +19,14 @@ html {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 400px;
-}
+}*/
 
 .calculator-screen {
     width: 100%;
     height: 80px;
     border: none;
-    background-color: #252525;
-    color: #fff;
+    background-color: #f6ad13;
+    color: #ed4543;
     text-align: right;
     padding-right: 20px;
     padding-left: 10px;
@@ -48,4 +48,5 @@ button {
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 20px;
     padding: 20px;
+    background-color: #b420b3;
 }
