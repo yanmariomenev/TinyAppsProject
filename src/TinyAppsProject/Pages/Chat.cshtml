@@ -24,7 +24,7 @@
             new signalR.HubConnectionBuilder()
                 .withUrl("/chatHub")
                 .build();
-
+        // TODO FIX USER NAMES.
         connection.on("NewMessage",
             function (message) {
                 var user = document.getElementById("userInput").value;
