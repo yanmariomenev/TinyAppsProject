@@ -1,4 +1,5 @@
 # TinyAppsProject
+Project is on hold.
 This is a fun project to experiment with js mostly.
 
 Calculator
